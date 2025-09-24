@@ -69,7 +69,7 @@ Each project highlights data cleaning, analysis, visualization, and storytelling
 
 ## 📬 Contact
 👤 **Muhammad Faris**  
-📧 Email: your-email@example.com  
+📧 Email: farisbilal96@gmail.com 
 🌐 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/muhammad-faris-a35748198/)  
 💻 GitHub: [Your GitHub Profile](https://github.com/Faris-data/Projects)  
 
